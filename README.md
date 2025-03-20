@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Miguel Coelho Farias 🤙🏽  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-farias-5aa162259)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-farias-5aa162259/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguel__fariass?igshid=OGQ5ZDc2ODk2ZA==)  
 
 💻 **Quality Assurance | Testes Manuais e Automatizados**  

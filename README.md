@@ -16,9 +16,8 @@ Sou estudante de **Sistemas de Informação** e atuo na área de **Quality Assur
 
 📊 **Estatísticas do GitHub**  
 
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelCoelhoFarias&show_icons=true&theme=onedark)  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelCoelhoFarias&theme=tokyonight&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelCoelhoFarias&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCoelhoFarias&layout=compact)  
 
 ## 🚀 Tecnologias e Ferramentas  
 

@@ -21,4 +21,4 @@
         <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
-Estudante, desenvolvedor e amante da área da tecnologia e programação. Buscando sempre conhecimento e autoaperfeiçoamento!
+Estudante, amante de tecnologia e focado em garantir a Qualidade!
